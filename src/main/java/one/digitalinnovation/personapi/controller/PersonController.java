@@ -25,8 +25,7 @@ import java.util.List;
 @RequestMapping("/api/v1/people")
 @AllArgsConstructor(onConstructor = @__(@Autowired))
 public class PersonController {
-//    @PostMapping
-//    public String getBook(){return "API Rest!";}
+
 
     private PersonService personService;
 
