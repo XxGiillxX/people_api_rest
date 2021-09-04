@@ -23,7 +23,7 @@ São necessários os seguintes pré-requisitos para a execução do projeto dese
 
   
 
-#####################################################################################
+
 Para executar o projeto no terminal, digite o seguinte comando:
 ```shell script
 mvn spring-boot:run 
