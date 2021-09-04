@@ -9,6 +9,7 @@ Foi desenvolvido com os seguintes tópicos:
 * Desenvolvimento de CRUD básico (Cadastro, leitura, atualização e remoção de pessoas de um sistema).
 * Ultilização do padrão arquitetural REST.
 * Desenvolvimento de testes unitários para validação das funcionalidades com Postman.
+* Teste unitário para criação de Person.
 * Implantação do sistema na nuvem através do Heroku.
 
 
